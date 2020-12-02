@@ -1,0 +1,34 @@
+/*<!—Path of Light Yoga Studio
+       Author: Kevin Frost
+       Date: 11/16/2020
+*/
+body {color:#40407A;
+	font-family: Verdana, Arial, sans-serif; background-color:#F5F5F5;}
+
+header{background-color:#F5F5F5;
+    background-image:url(lilyheader.jpg);
+	min-height: 100%;
+    background-repeat:no-repeat;
+    background-position:right;}
+
+nav { font-weight: bold;
+	text-align: center;}
+
+nav a { text-decoration: none;}
+	   
+
+h1 { line-height: 400%;
+	text-indent: 1em;
+background-color: #80CBC4;}
+	
+
+/* making the footer small and centered. That way it can be found if looked, but doesn't distract attention from the site. */
+
+footer{font-style: italic;
+	text-align: center;
+	font-size: small;
+	background-color: #80CBC4} 
+	
+li{font-size 90%}
+/* 
+Getting the color #F5F5F5 doesn't pop in this case, but it helps the text in the body even stand out more*/
